@@ -5,9 +5,9 @@ import Main from "./Main"
 import Footer from "./Footer"
 
 ReactDOM.render(
-        <>
+        <div>
             <Header />
             <Main />
             <Footer />
-        </>, document.getElementById("root")
+        </div>, document.getElementById("root")
 )
